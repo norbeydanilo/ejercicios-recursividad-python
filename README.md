@@ -1,2 +1,2 @@
-# Ejercicios-Recursividad
+# Ejercicios Recursividad
 Programas de recursividad en Python
